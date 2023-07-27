@@ -1,1 +1,1 @@
-PyTeX is a LaTeX compiler written in Python.
+PyTeX is a PDF generator written in Python.
