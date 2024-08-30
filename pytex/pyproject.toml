@@ -3,6 +3,8 @@ name = "pytex"
 version = "0.1.0"
 description = "PyTeX is a LaTeX compiler build in Python"
 authors = ["Ananya Bhowmick <bhowmickananya3110@gmail.com>"]
+maintainers = ["Nishtha Sharma <sharmanishtha007@gmail.com>"]
+repository = "https://github.com/abananya/Project_HasTeX_Python_Version"
 readme = "README.md"
 keywords = ["latex","compiler","python"]
 
