@@ -1,9 +1,10 @@
 [tool.poetry]
 name = "pytex"
 version = "0.1.0"
-description = ""
+description = "PyTeX is a LaTeX compiler build in Python"
 authors = ["Ananya Bhowmick <bhowmickananya3110@gmail.com>"]
 readme = "README.md"
+keywords = ["latex","compiler","python"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
