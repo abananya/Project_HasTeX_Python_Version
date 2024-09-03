@@ -1,0 +1,1 @@
+PyTeX is a PDF generator written in Python.
